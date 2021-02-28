@@ -1,4 +1,5 @@
 import java.util.*;
+// permutations
 
 public class q1 {
 
